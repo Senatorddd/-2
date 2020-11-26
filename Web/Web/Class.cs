@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 namespace Web
 {
     public class Class
-    {//sdfsd
+    {//видно ли тебе изменение которое я вношу?
     }
 }
