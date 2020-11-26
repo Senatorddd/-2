@@ -7,4 +7,5 @@ namespace Web
 {
     public class Class
     {//sdfsd
+    }
 }
